@@ -7,3 +7,6 @@ Primero clonamos el repositorio
 <code>git clone https://github.com/christianfm10/TowerDefense.git</code> <br>
 Luego abrimos el proyecto en Unity
 
+<h2> Video </h2>
+<a href="https://youtu.be/SIRcgEKVmPc">Presiona aquí para ver el video demostrativo</a>
+
