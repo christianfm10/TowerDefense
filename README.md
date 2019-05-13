@@ -4,6 +4,6 @@
 
 <h2>Instalar Proyeco</h2>
 Primero clonamos el repositorio
-<code>git clone https://github.com/christianfm10/TowerDefense.git</code>
+<code>git clone https://github.com/christianfm10/TowerDefense.git</code> <br>
 Luego abrimos el proyecto en Unity
 
